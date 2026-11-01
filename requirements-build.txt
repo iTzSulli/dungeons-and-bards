@@ -1,0 +1,4 @@
+pygame-ce>=2.5.8,<3
+pyinstaller>=6.19,<7
+aiohttp>=3.9,<4
+edge-tts>=7.2,<8
